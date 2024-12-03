@@ -3,7 +3,7 @@ The system used to monitor the power &amp; energy being generated for and consum
 
 ## Background
 
-Burning Man’s focus on sustainability and innovation inspired the deployment of "*[The Unicorn](https://journal.burningman.org/2023/04/black-rock-city/leaving-no-trace/going-solar/)*", a standalone renewable energy system. With a **30kW PV array** spanning two shipping containers, **114kWh of battery storage**, and **45kW AC output**, it powered the temple’s construction (approximately three weeks) and its operation during the event.
+Starting in 2023, the construction and event lighting for the Burning Man Temple has been run completely on solar.  Burning Man’s focus on sustainability and innovation inspired the development of "*[The Unicorn](https://journal.burningman.org/2023/04/black-rock-city/leaving-no-trace/going-solar/)*", a standalone renewable energy system. With a **30kW PV array** spanning two shipping containers, **114kWh of battery storage**, and **45kW AC output**, it powered the temple’s construction (approximately three weeks) and its operation during the event.
 
 ### Challenges in 2023 - **[The Temple of the Heart](https://www.temple2023.com/)**
 While *The Unicorn* successfully powered the temple, we lacked tools to monitor:
@@ -135,8 +135,3 @@ Feel free to explore the documentation and code to learn more about how we ensur
 ![image](https://github.com/user-attachments/assets/bbdabaa8-da1f-4140-bbab-0f362064a584)
 
 ![image](https://github.com/user-attachments/assets/e470bbcf-b1a1-47a1-8ad9-4157ae07d117)
-
-
-
-
-
