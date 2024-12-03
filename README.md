@@ -34,7 +34,7 @@ This repository documents the development and implementation of the energy monit
 3. **Visualization and Insights**: How real-time data was analyzed and used to optimize energy use.
 4. **Lessons Learned**: Key takeaways from deploying and operating the monitoring system in 2024.
 
-# Implemenation
+# Implementation
 
 The power monitoring system consisted of three parts:
 1. **Home Assistant**: Setting up & configuring monitoring dashboards in Home Assistant on a Raspberry Pi 
