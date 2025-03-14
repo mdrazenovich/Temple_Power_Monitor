@@ -90,7 +90,7 @@ We leveraged Solar Assistant to monitor the status of the PV, Batteries, & inver
 Guides:
 - **[Flashing a Raspberry Pi with Solar Assistant](https://solar-assistant.io/help/getting-started/prepare-device)**
 - **[Configuring Solar Assistant to work with a Sol-Ark 15K](https://solar-assistant.io/help/deye/configuration)**
-- 
+  
 Hardware:
 - **[CanaKit Raspberry Pi 4 4GB Starter PRO Kit - 4GB RAM](https://www.amazon.com/CanaKit-Raspberry-4GB-Starter-Kit/dp/B07V5JTMV9?th=1)**
 - **[ROADOM 7" Raspberry Pi Touch Screen](https://www.amazon.com/ROADOM-Raspberry-Responsive-Compatible-Versatile/dp/B0CJNHY3X3?th=1)**
